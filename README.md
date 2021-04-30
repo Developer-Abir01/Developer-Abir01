@@ -25,4 +25,4 @@ Skills:  REACT / JS / HTML / CSS/Express js
 
 
 
-[](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/front-end-developer-abir-khan.pdf)
+![Resume](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/front-end-developer-abir-khan.pdf)
