@@ -21,9 +21,8 @@ Skills:  REACT / JS / HTML / CSS/Express js
 
 
 ![freeCodeCamp](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/Abir%20khan%20eeee.PNG)
-![freeCodeCamp](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/Abir%20khan%20eeee.PNG)
+![freeCodeCamp](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/javaScripet.PNG)
 ![freeCodeCamp](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/javascroaioseoawjf.PNG)
 
 
 
-https://github.com/Developer-Abir01/Developer-Abir01/blob/main/javascroaioseoawjf.PNG
