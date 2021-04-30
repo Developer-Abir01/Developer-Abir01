@@ -1,4 +1,4 @@
-![Resume](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/Abir%20khan%20eeee.PNG)
+![Resume-updete](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/Abir%20khan%20eeee.PNG)
 
 
 ### Hi there 👋, MD Abir Khan
