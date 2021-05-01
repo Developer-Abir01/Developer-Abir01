@@ -17,7 +17,7 @@ Skills:  REACT / JS / HTML / CSS/Express js
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Developer-Abir01&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Abir01&langs_count=5&theme=tokyonight)]()
 
 
 ![freeCodeCamp](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/Abir%20khan%20eeee.PNG)
