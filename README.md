@@ -26,4 +26,4 @@ Skills:  REACT / JS / HTML / CSS/Express js
 
 
 ![Resume](https://github.com/Developer-Abir01/Developer-Abir01/blob/main/front-end-developer-abir-khan.pdf)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Abir01)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Developer-Abir01)](https://github.com/anuraghazra/github-readme-stats)
