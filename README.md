@@ -3,7 +3,7 @@
 
  
 
-- 👨‍💻 All of my projects are available at [https://dev-abir-khan.web.app/](https://dev-abir-khan.web.app/)
+- 👨‍💻 All of my projects are available at [https://dev-abir-khan.web.app/](https://developer-abir-khan.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
