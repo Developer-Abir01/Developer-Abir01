@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD ABIR KHAN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [softdro](http://softdro.com/)
+ 
 
 - 👨‍💻 All of my projects are available at [https://dev-abir-khan.web.app/](https://dev-abir-khan.web.app/)
 
