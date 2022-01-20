@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Motor-Mina](https://motor-mina-web-application.web.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [Md Abir khan](https://developer-abir-khan.netlify.app/)</h3>
 <p align="left">
 </p>
 
