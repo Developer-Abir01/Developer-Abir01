@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/Developer-Abir01) 
 
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer
-Knock me:https://gpvc.arturio.dev/Developer-Abir01
+Knock me: ![Protfolio Profile](https://developer-abir-khan.netlify.app)
 
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
