@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Developer Abir Khan  </h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer </h3>
 
-![Profile views](https://gpvc.arturio.dev/Developer-Abir01) 
+![Profile views](https://gpvc.arturio.dev/developer-abir1) 
 
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer
 Knock me: [portfolio ](https://developer-abir-khan.netlify.app)
@@ -13,7 +13,7 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Developer-Abir01](https://github.com/Developer-Abir01)
+- 👨‍💻 All of my projects are available at [https://github.com/Developer-Abir01](https://github.com/developer-abir1)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap **
 
@@ -48,5 +48,5 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Abir01)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Abir01&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Abir01)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Developer-Abir01)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=developer-abir1)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developer-abir1)  
