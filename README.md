@@ -32,23 +32,23 @@ Learning
 
 ## My Recent Projects -
 ### Doctor portal
-#### Private Investigation and Security Firm Website, [Live Site](https://doctor-protals-client.vercel.app/), [Client Repo](https://github.com/developer-abir1/doctor-protals-client), [Server Repo](https://github.com/developer-abir1/doctor-server)
+####  Patient Appointment   Website, [Live Site](https://doctor-protals-client.vercel.app/), [Client Repo](https://github.com/developer-abir1/doctor-protals-client), [Server Repo](https://github.com/developer-abir1/doctor-server)
 
-- Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
-- I used React, Bootstrap, Font Awesome icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
-- Dropdown service selection (Have to add )
-![Rana-Agency-Admin](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/rana-agency.png)
-
+- Here user can hire Appoinment and give reviews. Admin can manage order,  delete and add service, add new admin..
+- I used React, tailwindCss, React icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
+- Dropdown service selection 
+![dashboard](https://user-images.githubusercontent.com/72245378/219922952-1a77084b-b00c-429c-a379-df8cce80451d.JPG) 
+  
 
 ### Flourish And Blotts
-#### Bookshop Website, [Live Site](https://flourish-and-blotts.web.app/), [Client Repo](https://github.com/ishtiak-ahmed/flourish---blotts-client), [Server Repo](https://github.com/ishtiak-ahmed/flourish-n-blotts-server)
+#### Bookshop Website, [Live Site](https://second-hand-market-f9bc4.web.app/), [client repo](https://github.com/developer-abir1/Second-Chance-Market-client)  , [Server Repo](https://github.com/developer-abir1/reseller-market-server)
 - Products data coming from **Mongodb** server
-- User Specific order list
+- User Sell her used Product and booking
 - Google User authentication (login method)
 - Admin page to manage product, Create and delete product item from database
 - and Responsive layout
 
-![Flourish-and-Blotts](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/flourish-blotts.png)
+ ![my-products](https://user-images.githubusercontent.com/72245378/219923001-1873f19a-459c-46c3-88e6-46459d7970fa.JPG)
 
 
 ### Hogwarts express
