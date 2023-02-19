@@ -38,9 +38,7 @@ Learning
 - I used React, tailwindCss, React icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
 - Dropdown service selection 
 - Payment dashord 
-![dashboard](https://user-images.githubusercontent.com/72245378/219922952-1a77084b-b00c-429c-a379-df8cce80451d.JPG)
-- Make Admin 
- ![make admin](https://user-images.githubusercontent.com/72245378/219923181-93ba310f-1fe5-4946-996c-c2dd90696ed7.JPG)
+![dashboard](https://user-images.githubusercontent.com/72245378/219922952-1a77084b-b00c-429c-a379-df8cce80451d.JPG) 
 ![payment](https://user-images.githubusercontent.com/72245378/219923453-06e2f8f4-46b6-42ac-9216-beb93f969835.JPG)
 
 ### Second Chance Market website
@@ -53,7 +51,7 @@ Learning
 
  ![my-products](https://user-images.githubusercontent.com/72245378/219923001-1873f19a-459c-46c3-88e6-46459d7970fa.JPG)
 ![user-dashboar](https://user-images.githubusercontent.com/72245378/219923439-c681e7c8-a19c-4bc7-bcfe-f2931b10c246.JPG)
-![booking-usrs](https://user-images.githubusercontent.com/72245378/219923444-4e348787-d228-489d-9a35-0e9558bc76d0.JPG)
+ 
 
 
 ### Staycation (Fab 2023 - running)
