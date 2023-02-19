@@ -1,53 +1,83 @@
-[ABIR KHAN RESUME FONT-EDN-DEVELOPER (3).pdf](https://github.com/developer-abir1/developer-abir1/files/10716168/ABIR.KHAN.RESUME.FONT-EDN-DEVELOPER.3.pdf)
-![I am Md Abir Khan](https://spectrum.ieee.org/media-library/illustration-of-software-development-in-the-cloud.jpg?id=25591710&width=1240&height=930)
+### Hi there 👋
+
+# I am Abir Khan
+### MERN Stack Web Developer
+
+### Currently working with
+```diff
++  React, NextJS, Redux, Typescipt, Node, Mongoose(MongoDB), AWS Lambda, SASS (SCSS)
+```
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-abir1&label=Profile%20views&color=0e75b6&style=flat" alt="abirkhan" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Developer Abir Khan  </h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer </h3>
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/developer-abir/)   [Portfolio](https://protfolio-site-abir-khan.vercel.app/)
 
-![Profile views](https://gpvc.arturio.dev/developer-abir1) 
+### Languages and Tools:
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer
-Knock me ![portfolio ]([(https://protfolio-site-abir-khan.vercel.app] )
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />] <br />
 
-Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning **JavaScript, React**
+Learning
+- [ ] NestJS
+- [ ] Redux Saga
+- [ ] React Native
+- [ ] GraphQL
 
-- 👨‍💻 All of my projects are available at [https://github.com/Developer-Abir01](https://github.com/developer-abir1)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap **
+## My Recent Projects -
+### Doctor portal
+#### Private Investigation and Security Firm Website, [Live Site](https://doctor-protals-client.vercel.app/), [Client Repo](https://github.com/developer-abir1/doctor-protals-client), [Server Repo](https://github.com/developer-abir1/doctor-server)
 
-- 📫 How to reach me **developerabir40@gmail.com**
+- Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
+- I used React, Bootstrap, Font Awesome icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
+- Dropdown service selection (Have to add )
+![Rana-Agency-Admin](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/rana-agency.png)
 
-- 📄 All About Me:[https://linktr.ee/developer-abir](https://www.linkedin.com/in/developer-abir/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100015328387278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/MDAbirK03792685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/developer-abir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a> 
-</p>
+### Flourish And Blotts
+#### Bookshop Website, [Live Site](https://flourish-and-blotts.web.app/), [Client Repo](https://github.com/ishtiak-ahmed/flourish---blotts-client), [Server Repo](https://github.com/ishtiak-ahmed/flourish-n-blotts-server)
+- Products data coming from **Mongodb** server
+- User Specific order list
+- Google User authentication (login method)
+- Admin page to manage product, Create and delete product item from database
+- and Responsive layout
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p>
+![Flourish-and-Blotts](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/flourish-blotts.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-abir1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=developer-abir1&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=developer-abir1)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=developer-abir1)  
+### Hogwarts express
+#### Metro Rail Ticket Booking site, [Live Site](https://hogwatrs-express.web.app/), [Code Repo](https://github.com/ishtiak-ahmed/hogwarts-express)
+This project is mainly focused firebase authentication. Here I have added..
+- Firebase Authentication
+- React Router
+- Private (secure) Routing
+- Responsive Layout
+- Google Map Api
+
+
+![Hogwarts Express](https://raw.githubusercontent.com/ishtiak-ahmed/hogwarts-express/main/hogwarts.png)
+
+
+1. [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ishtiak-ahmed&count_private=true&theme=tokyonight&showicons=true)]()
+2. [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiak-ahmed&langs_count=5&theme=tokyonight)]()
+
+<!--
+**ishtiak-ahmed/ishtiak-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
