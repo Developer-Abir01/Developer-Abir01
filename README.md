@@ -56,15 +56,15 @@ Learning
 ![booking-usrs](https://user-images.githubusercontent.com/72245378/219923444-4e348787-d228-489d-9a35-0e9558bc76d0.JPG)
 
 
-### Staycation (runngin)
+### Staycation (Fab 2023 - running)
 #### Hotel Booking website, [Live Site](https://hogwatrs-express.web.app/), [Code Repo](https://github.com/ishtiak-ahmed/hogwarts-express)
 This project is mainly focused  firebase authentication and resposive desing . Here I have added..
 - Firebase Authentication
--JWT
+- expolor JWT
 - React Router
 - Private (secure) Routing
 - Responsive Layout
-- Momonet j
+- Momonet js
 
 
  ![responsv](https://user-images.githubusercontent.com/72245378/219923493-061d3708-08fc-4518-92af-947d5633e4d9.JPG)
