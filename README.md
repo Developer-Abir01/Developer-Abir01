@@ -37,11 +37,14 @@ Learning
 - Here user can hire Appoinment and give reviews. Admin can manage order,  delete and add service, add new admin..
 - I used React, tailwindCss, React icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
 - Dropdown service selection 
-![dashboard](https://user-images.githubusercontent.com/72245378/219922952-1a77084b-b00c-429c-a379-df8cce80451d.JPG) 
-  
+- Payment dashord 
+![dashboard](https://user-images.githubusercontent.com/72245378/219922952-1a77084b-b00c-429c-a379-df8cce80451d.JPG)
+- Make Admin 
+ ![make admin](https://user-images.githubusercontent.com/72245378/219923181-93ba310f-1fe5-4946-996c-c2dd90696ed7.JPG)
+![payment](https://user-images.githubusercontent.com/72245378/219923453-06e2f8f4-46b6-42ac-9216-beb93f969835.JPG)
 
-### Flourish And Blotts
-#### Bookshop Website, [Live Site](https://second-hand-market-f9bc4.web.app/), [client repo](https://github.com/developer-abir1/Second-Chance-Market-client)  , [Server Repo](https://github.com/developer-abir1/reseller-market-server)
+### Second Chance Market website
+#### Used prodcut sale Website, [Live Site](https://second-hand-market-f9bc4.web.app/), [client repo](https://github.com/developer-abir1/Second-Chance-Market-client)  , [Server Repo](https://github.com/developer-abir1/reseller-market-server)
 - Products data coming from **Mongodb** server
 - User Sell her used Product and booking
 - Google User authentication (login method)
@@ -49,19 +52,22 @@ Learning
 - and Responsive layout
 
  ![my-products](https://user-images.githubusercontent.com/72245378/219923001-1873f19a-459c-46c3-88e6-46459d7970fa.JPG)
+![user-dashboar](https://user-images.githubusercontent.com/72245378/219923439-c681e7c8-a19c-4bc7-bcfe-f2931b10c246.JPG)
+![booking-usrs](https://user-images.githubusercontent.com/72245378/219923444-4e348787-d228-489d-9a35-0e9558bc76d0.JPG)
 
 
-### Hogwarts express
-#### Metro Rail Ticket Booking site, [Live Site](https://hogwatrs-express.web.app/), [Code Repo](https://github.com/ishtiak-ahmed/hogwarts-express)
-This project is mainly focused firebase authentication. Here I have added..
+### Staycation (runngin)
+#### Hotel Booking website, [Live Site](https://hogwatrs-express.web.app/), [Code Repo](https://github.com/ishtiak-ahmed/hogwarts-express)
+This project is mainly focused  firebase authentication and resposive desing . Here I have added..
 - Firebase Authentication
+-JWT
 - React Router
 - Private (secure) Routing
 - Responsive Layout
-- Google Map Api
+- Momonet j
 
 
-![Hogwarts Express](https://raw.githubusercontent.com/developer-abir1/hogwarts-express/main/hogwarts.png)
+ ![responsv](https://user-images.githubusercontent.com/72245378/219923493-061d3708-08fc-4518-92af-947d5633e4d9.JPG)
 
 
 1. [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=developer-abir1&count_private=true&theme=tokyonight&showicons=true)]()
