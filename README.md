@@ -29,49 +29,7 @@ Learning
 - [ ] React Native
 - [ ] GraphQL
 
-
-## My Recent Projects -
-### Doctor portal
-####  Patient Appointment   Website, [Live Site](https://doctor-protals-client.vercel.app/), [Client Repo](https://github.com/developer-abir1/doctor-protals-client), [Server Repo](https://github.com/developer-abir1/doctor-server)
-
-- Here user can hire Appoinment and give reviews. Admin can manage order,  delete and add service, add new admin..
-- I used React, tailwindCss, React icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
-- Dropdown service selection 
-- Payment dashord 
-![dashboard](https://user-images.githubusercontent.com/72245378/219922952-1a77084b-b00c-429c-a379-df8cce80451d.JPG) 
-![payment](https://user-images.githubusercontent.com/72245378/219923453-06e2f8f4-46b6-42ac-9216-beb93f969835.JPG)
-
-### Second Chance Market website
-#### Used prodcut sale Website, [Live Site](https://second-hand-market-f9bc4.web.app/), [client repo](https://github.com/developer-abir1/Second-Chance-Market-client)  , [Server Repo](https://github.com/developer-abir1/reseller-market-server)
-- Products data coming from **Mongodb** server
-- User Sell her used Product and booking
-- Google User authentication (login method)
-- Admin page to manage product, Create and delete product item from database
-- and Responsive layout
-
- ![my-products](https://user-images.githubusercontent.com/72245378/219923001-1873f19a-459c-46c3-88e6-46459d7970fa.JPG)
-![user-dashboar](https://user-images.githubusercontent.com/72245378/219923439-c681e7c8-a19c-4bc7-bcfe-f2931b10c246.JPG)
  
-
-
-### Staycation (Fab 2023 - running)
-#### Hotel Booking website,   [Live Site](https://stay-cation-auth.web.app/), [Code Repo](https://github.com/developer-abir1/Stay-cation-server)
-This project is mainly focused  firebase authentication and resposive desing . Here I have added..
-- Firebase Authentication
-- expolor JWT
-- React Router
-- Private (secure) Routing
-- Responsive Layout
-- Momonet js
-
-
- ![responsv](https://user-images.githubusercontent.com/72245378/219923493-061d3708-08fc-4518-92af-947d5633e4d9.JPG)
-
-
-1. [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=developer-abir1&count_private=true&theme=tokyonight&showicons=true)]()
-2. [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-abir1&langs_count=5&theme=tokyonight)]()
-
-[screencapture-vs-play-e1451-web-app-2023-03-20-20_55_12](https://user-images.githubusercontent.com/72245378/226379371-66a47163-aa04-4e4a-a2f2-7b0fb8f27aad.png)
 <!--
 **ishtiak-ahmed/ishtiak-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
